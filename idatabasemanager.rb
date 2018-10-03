@@ -5,9 +5,7 @@ module IDatabaseManager
     raise "Not implemented"
   end
 
-  def store_message(_message)
-    raise "Not implemented"
-  end
+  
 
   def fetch_message
     raise "Not implemented"
